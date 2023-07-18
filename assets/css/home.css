@@ -1,0 +1,24 @@
+.home-container{
+    max-width: 1080px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text_home{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.text__home{
+    font-size: 1.2rem;
+    margin-top: 0px;
+}
+
+.photo-profile{
+    margin-top: 1rem;
+    width: 128px;
+    height: 128px;
+    border-radius: 50%;
+}

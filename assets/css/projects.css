@@ -1,0 +1,26 @@
+.projects-container{
+    max-width: 1080px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.cards-projects{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.box__projects{
+    border: 1px solid;
+    margin-top: 1rem;
+}
+
+.text__projects{
+    border: 0.5px solid;
+}
+
+.imagens{
+    width: 434px;
+    height: 270px;
+}
+

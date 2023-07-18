@@ -1,0 +1,10 @@
+.contacts-container{
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+.cards-contacts{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
