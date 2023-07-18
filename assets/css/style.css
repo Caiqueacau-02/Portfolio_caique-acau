@@ -138,6 +138,15 @@ footer{
     .menu{
         display: flex;
         flex-direction: column;
+        width: 300px;
+    }
+
+    .navigation{
+        width: 340px;
+    }
+
+    .about-container{
+        width: 300px;
     }
 
     .switch{
